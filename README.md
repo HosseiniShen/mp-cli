@@ -3,7 +3,7 @@
 ## 安装
 
 ```bash
-npm install -D @zm-op/mp-cli --registry http://npm.zmops.cc/
+npm install -D mp-cl
 ```
 
 ## 使用
