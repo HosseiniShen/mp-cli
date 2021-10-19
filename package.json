@@ -1,6 +1,6 @@
 {
   "name": "mp-cl",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "微信小程序开发工具",
   "main": "index.js",
   "scripts": {
