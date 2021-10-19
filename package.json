@@ -1,6 +1,6 @@
 {
-  "name": "@zm-op/mp-cli",
-  "version": "1.0.0",
+  "name": "mp-cl",
+  "version": "1.0.1",
   "description": "微信小程序开发工具",
   "main": "index.js",
   "scripts": {
@@ -8,8 +8,13 @@
     "lint": "tslint -p tsconfig.json"
   },
   "keywords": [],
-  "author": "",
+  "author": "osseini",
   "license": "ISC",
+  "homepage": "https://github.com/HosseiniShen/mp-cli",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HosseiniShen/mp-cli.git"
+  },
   "bin": {
     "mp-cli": "./out/index.js"
   },
